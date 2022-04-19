@@ -1,0 +1,94 @@
+[
+  {
+    "id": 1,
+    "name": "HealthyCarely Landing Page",
+    "description": "Landing Page built with Angular with minimal functionalities",
+    "imageUrl": "https://github.com/olawalemayor/healthycarely/raw/master/screenshot.jpg",
+    "projectLink": "https://healthycarely.vercel.app/",
+    "githubLink": "https://github.com/olawalemayor/healthycarely",
+    "skills": [
+      { "name": "Angular", "color": "red" },
+      { "name": "TypeScript", "color": "yellow" },
+      { "name": "CSS3", "color": "lightblue" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "eVoc ecommerce app",
+    "description": "A semi-fullstack project built using FakeStore API",
+    "imageUrl": "https://github.com/olawalemayor/evoc-frontend/raw/master/screenshot.jpg",
+    "projectLink": "https://evocx.netlify.app/",
+    "githubLink": "https://github.com/olawalemayor/evoc-frontend",
+    "skills": [
+      { "name": "React", "color": "lightblue" },
+      { "name": "TypeScript", "color": "yellow" },
+      { "name": "Express", "color": "blue" },
+      { "name": "Axios", "color": "black" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Gmail App",
+    "description": "Replicating the gmail App using ReactJS and Material Ui",
+    "imageUrl": "https://github.com/olawalemayor/rx-gmail/raw/master/screenshot.jpg",
+    "projectLink": "https://rx-gmail.herokuapp.com",
+    "githubLink": "https://github.com/olawalemayor/rx-gmail",
+    "skills": [
+      { "name": "React", "color": "lightblue" },
+      { "name": "TypeScript", "color": "yellow" },
+      { "name": "Express", "color": "blue" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Space Tourism App",
+    "description": "Project from frontendmentor.io",
+    "imageUrl": "https://github.com/olawalemayor/space-tourism-app/raw/master/screenshot.jpg",
+    "projectLink": "https://spacetouriism.netlify.app/",
+    "githubLink": "https://github.com/olawalemayor/space-tourism-app",
+    "skills": [
+      { "name": "Angular", "color": "red" },
+      { "name": "TypeScript", "color": "yellow" },
+      { "name": "CSS3", "color": "lightblue" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Under10Bucks",
+    "description": "An app to display courses from Udemy costing less than $10 ",
+    "imageUrl": "https://github.com/olawalemayor/under10bucks/raw/master/screenshot.jpg",
+    "projectLink": "https://under10bucks.netlify.app/",
+    "githubLink": "https://github.com/olawalemayor/under10bucks",
+    "skills": [
+      { "name": "Angular", "color": "red" },
+      { "name": "Firebase", "color": "orange" },
+      { "name": "Express", "color": "blue" },
+      { "name": "Bootstrap", "color": "purple" },
+      { "name": "REST-API", "color": "black" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Car Database Front-end",
+    "description": "Frontend of a database showing every car ever made",
+    "imageUrl": "https://github.com/olawalemayor/carDB/raw/master/Screenshot.jpg",
+    "githubLink": "https://github.com/olawalemayor/carDB",
+    "projectLink": "https://car-db.netlify.app/cars",
+    "skills": [
+      { "name": "Angular", "color": "red" },
+      { "name": "Bootstrap", "color": "purple" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Car Database Back-end",
+    "description": "Backend of a database showing every car ever made",
+    "imageUrl": "https://github.com/olawalemayor/carDB/raw/master/Screenshot.jpg",
+    "githubLink": "https://github.com/olawalemayor/cardb-node",
+    "projectLink": "https://car-db.netlify.app/cars",
+    "skills": [
+      { "name": "Node", "color": "black" },
+      { "name": "Express", "color": "blue" }
+    ]
+  }
+]

@@ -1,0 +1,172 @@
+button a {
+  text-decoration: none;
+  color: unset;
+}
+
+.container {
+  scroll-behavior: smooth;
+}
+
+/*App container styling*/
+.App {
+  display: block;
+}
+
+.sidebar {
+  width: 17.5rem;
+  background-color: rgb(180, 179, 179);
+  height: 100%;
+  position: fixed;
+  display: none;
+  text-align: center;
+  z-index: 99999;
+  border-right: 1px solid #eee;
+}
+
+.sidebar-container {
+  padding-top: 150px;
+}
+
+.sidebar,
+.sidebar div,
+.sidebar a {
+  color: var(--textColor);
+}
+
+.sidebar h3 {
+  padding: 1.2rem 0;
+}
+
+.sidebar a {
+  text-decoration: none;
+}
+
+.profile-img {
+  border-radius: 1rem;
+  display: block;
+  width: 75%;
+  margin: 1rem auto;
+}
+
+.profile-img,
+.brand {
+  cursor: pointer;
+}
+
+/*Mobile Navbar*/
+
+.mobile-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem;
+  background-color: rgb(194, 193, 193, 0.4);
+}
+
+.show-mobile-nav {
+  display: inline;
+}
+
+/* Icons and social icons*/
+
+.icon {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  margin: 0.3rem;
+  text-decoration: none;
+  position: relative;
+}
+
+.social-icons {
+  text-align: center;
+}
+
+.social-icon-hint {
+  margin-top: 0.3rem;
+  position: absolute;
+  background-color: var(--textColor);
+  color: #fff !important;
+  padding: 0.3rem;
+  border-radius: 0.5rem;
+  left: 0;
+}
+
+.hovered-icon {
+  opacity: 0.5;
+}
+
+/*NavBar*/
+.navbar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.navbar-btn {
+  font-size: 30px;
+  color: red;
+  padding: 0.3rem 1rem;
+  border: none;
+  background-color: unset;
+}
+
+nav a {
+  text-decoration: none !important;
+  display: block;
+  margin: 2rem auto;
+  text-align: center;
+  color: var(--textColor);
+  cursor: pointer;
+}
+
+nav a:hover {
+  color: blue;
+}
+
+/*Badge styling*/
+.badge {
+  width: 100%;
+  line-height: 2rem;
+}
+
+/*Sections*/
+.section {
+  margin: 0 0.7rem 1rem 0.7rem;
+  padding: 1rem;
+}
+
+/* Larger screens */
+@media (min-width: 1200px) {
+  /*App container styling*/
+  .App {
+    display: block;
+  }
+
+  .main {
+    margin-left: 20%;
+  }
+
+  /*Sidebar stylng*/
+  .sidebar {
+    width: 20%;
+    display: inline;
+    float: left;
+    background-color: rgba(121, 121, 121, 0.4);
+  }
+
+  .sidebar-container {
+    padding-top: 200px;
+  }
+
+  .sidebar,
+  .sidebar a,
+  .sidebar div {
+    color: var(--textColor);
+  }
+
+  /*Mobile navbar*/
+  .mobile-navbar {
+    display: none;
+  }
+}

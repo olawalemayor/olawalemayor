@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+:root {
+  --textColor: rgb(39, 39, 39);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  color: var(--textColor);
+}
+
+.d-block {
+  display: block;
+  width: 100%;
+}
+
+.mt-4 {
+  margin-top: 4rem;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.separator {
+  margin-bottom: 2rem;
+}

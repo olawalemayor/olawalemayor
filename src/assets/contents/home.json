@@ -1,0 +1,15 @@
+{
+  "firstname": "Olawale",
+  "lastname": "Olufisoye",
+  "description": "Full Stack Web Developer",
+  "skills": [
+    { "content": "NodeJS", "color": "black" },
+    { "content": "Express", "color": "blue" },
+    { "content": "Angular", "color": "red" },
+    { "content": "React", "color": "lightblue" },
+    { "content": "Typescript", "color": "yellow" },
+    { "content": "Python", "color": "lightblue" },
+    { "content": "Bootstrap", "color": "purple" }
+  ],
+  "other_description": "A certified web developer who uses Angular, React and Material UI to create web applications"
+}
