@@ -70,23 +70,14 @@
   {
     "id": 6,
     "name": "Car Database Front-end",
-    "description": "Frontend of a database showing every car ever made",
+    "description": "A fullstack project of a database showing every car ever made",
     "imageUrl": "https://github.com/olawalemayor/carDB/raw/master/Screenshot.jpg",
     "githubLink": "https://github.com/olawalemayor/carDB",
     "projectLink": "https://car-db.netlify.app/cars",
     "skills": [
+      { "name": "MongoDB", "color": "green" },
       { "name": "Angular", "color": "red" },
-      { "name": "Bootstrap", "color": "purple" }
-    ]
-  },
-  {
-    "id": 7,
-    "name": "Car Database Back-end",
-    "description": "Backend of a database showing every car ever made",
-    "imageUrl": "https://github.com/olawalemayor/carDB/raw/master/Screenshot.jpg",
-    "githubLink": "https://github.com/olawalemayor/cardb-node",
-    "projectLink": "https://car-db.netlify.app/cars",
-    "skills": [
+      { "name": "Bootstrap", "color": "purple" },
       { "name": "Node", "color": "black" },
       { "name": "Express", "color": "blue" }
     ]
