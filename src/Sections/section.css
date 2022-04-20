@@ -91,7 +91,7 @@ h1 {
 }
 
 .portfolio-grid {
-  margin: 0;
+  margin: 2rem 0 0 0;
 }
 
 .portfolio-grid h3 + .description {
