@@ -8,8 +8,9 @@
     { "content": "Angular", "color": "red" },
     { "content": "React", "color": "lightblue" },
     { "content": "Typescript", "color": "yellow" },
-    { "content": "Python", "color": "lightblue" },
-    { "content": "Bootstrap", "color": "purple" }
+    { "content": "MongoDB", "color": "green" },
+    { "content": "Bootstrap", "color": "purple" },
+    { "content": "Python", "color": "lightblue" }
   ],
   "other_description": "A certified web developer who uses Angular, React and Material UI to create web applications"
 }
