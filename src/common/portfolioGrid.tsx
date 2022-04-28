@@ -1,5 +1,6 @@
 import React, { CSSProperties, Fragment, useState } from "react";
 import Badge from "./badge";
+import "./portfolioGrid.css";
 
 interface Props {
   imageUrl: string;
@@ -39,7 +40,7 @@ export default function PortfolioGrid({
   return (
     <Fragment>
       <div className="hide-desktop">
-        <h3>{name}</h3>
+        <h3 className="portfolio-mobile-header">{name}</h3>
         <div className="description">{description}</div>
         <br />
       </div>
