@@ -227,13 +227,18 @@ h1 {
     display: block;
     margin: 0 auto;
     color: white;
-    padding: 0.6rem;
+    padding: 1rem;
     background-color: var(--textColor);
+    box-shadow: 1px -1px 5px 3px #aaa;
   }
 
   .portfolio-inner h5 {
     font-size: 20px;
     color: #fff;
+  }
+
+  .portfolio-inner span {
+    line-height: 1.5rem;
   }
 
   .mob-portfolio {

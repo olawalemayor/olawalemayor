@@ -67,12 +67,12 @@ export default function PortfolioGrid({
         <div className="links">
           {projectLink && (
             <button>
-              <a href={projectLink}>Project</a>
+              <a href={projectLink}>Visit</a>
             </button>
           )}
           {githubLink && (
             <button>
-              <a href={githubLink}>GitHub</a>
+              <a href={githubLink}>Source</a>
             </button>
           )}
         </div>

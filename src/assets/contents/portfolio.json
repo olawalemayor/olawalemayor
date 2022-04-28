@@ -1,6 +1,18 @@
 [
   {
     "id": 1,
+    "name": "Pelagio Invest",
+    "description": "Pelagio is a safe and dependable gateway to the Nigerian and U.S stock markets, providing a reliable platform for unlimited access to several stocks using your mobile devices.",
+    "imageUrl": "https://i.ibb.co/5446LqL/pelagio.jpg",
+    "projectLink": "https://pelagioinvest.com/",
+    "skills": [
+      { "name": "HTML", "color": "green" },
+      { "name": "CSS3", "color": "lightblue" },
+      { "name": "WordPress", "color": "black" }
+    ]
+  },
+  {
+    "id": 2,
     "name": "HealthyCarely Landing Page",
     "description": "Landing Page built with Angular with minimal functionalities",
     "imageUrl": "https://github.com/olawalemayor/healthycarely/raw/master/screenshot.jpg",
@@ -13,30 +25,14 @@
     ]
   },
   {
-    "id": 2,
-    "name": "eVoc ecommerce app",
-    "description": "A semi-fullstack project built using FakeStore API",
-    "imageUrl": "https://github.com/olawalemayor/evoc-frontend/raw/master/screenshot.jpg",
-    "projectLink": "https://evocx.netlify.app/",
-    "githubLink": "https://github.com/olawalemayor/evoc-frontend",
-    "skills": [
-      { "name": "React", "color": "lightblue" },
-      { "name": "TypeScript", "color": "yellow" },
-      { "name": "Express", "color": "blue" },
-      { "name": "Axios", "color": "black" }
-    ]
-  },
-  {
     "id": 3,
-    "name": "Gmail App",
-    "description": "Replicating the gmail App using ReactJS and Material Ui",
-    "imageUrl": "https://github.com/olawalemayor/rx-gmail/raw/master/screenshot.jpg",
-    "projectLink": "https://rx-gmail.herokuapp.com",
-    "githubLink": "https://github.com/olawalemayor/rx-gmail",
+    "name": "Zero Depression",
+    "description": "Zero depression is an online platform which provides a neutral environment to help people passing through mental health challenges speak out without fear.",
+    "imageUrl": "https://i.ibb.co/dM4pPfz/zerodepression.jpg",
+    "projectLink": "https://zerodepression.org/",
     "skills": [
-      { "name": "React", "color": "lightblue" },
-      { "name": "TypeScript", "color": "yellow" },
-      { "name": "Express", "color": "blue" }
+      { "name": "HTML", "color": "green" },
+      { "name": "CSS3", "color": "lightblue" }
     ]
   },
   {
@@ -54,31 +50,39 @@
   },
   {
     "id": 5,
-    "name": "Under10Bucks",
-    "description": "An app to display courses from Udemy costing less than $10 ",
-    "imageUrl": "https://github.com/olawalemayor/under10bucks/raw/master/screenshot.jpg",
-    "projectLink": "https://under10bucks.netlify.app/",
-    "githubLink": "https://github.com/olawalemayor/under10bucks",
+    "name": "chassis.ng",
+    "description": "Chassis is an automotive e-commerce platform that connects internet-connected vehicle owners to reliable auto mechanics.",
+    "imageUrl": "https://i.ibb.co/sVKPDLc/chassis.jpg",
+    "projectLink": "https://chassis.ng/",
     "skills": [
-      { "name": "Angular", "color": "red" },
-      { "name": "Firebase", "color": "orange" },
-      { "name": "Express", "color": "blue" },
-      { "name": "Bootstrap", "color": "purple" },
-      { "name": "REST-API", "color": "black" }
+      { "name": "MySQL", "color": "blue" },
+      { "name": "HTML", "color": "green" },
+      { "name": "CSS3", "color": "lightblue" },
+      { "name": "WordPress", "color": "black" }
     ]
   },
   {
     "id": 6,
-    "name": "Car Database",
-    "description": "A fullstack project of a database showing every car ever made",
-    "imageUrl": "https://github.com/olawalemayor/carDB/raw/master/Screenshot.jpg",
-    "githubLink": "https://github.com/olawalemayor/carDB",
-    "projectLink": "https://car-db.netlify.app/cars",
+    "name": "TechBango",
+    "description": "TechBango is a communication and technology firm that specializes in creating bespoke digital solutions for visionary clients.",
+    "imageUrl": "https://i.ibb.co/09XCJ8L/techbango.jpg",
+    "projectLink": "https://techbango.io/",
     "skills": [
-      { "name": "MongoDB", "color": "green" },
-      { "name": "Angular", "color": "red" },
-      { "name": "Bootstrap", "color": "purple" },
-      { "name": "Node", "color": "black" },
+      { "name": "HTML", "color": "green" },
+      { "name": "CSS3", "color": "lightblue" },
+      { "name": "WordPress", "color": "black" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Gmail App",
+    "description": "Replicating the gmail App using ReactJS and Material Ui",
+    "imageUrl": "https://github.com/olawalemayor/rx-gmail/raw/master/screenshot.jpg",
+    "projectLink": "https://rx-gmail.herokuapp.com",
+    "githubLink": "https://github.com/olawalemayor/rx-gmail",
+    "skills": [
+      { "name": "React", "color": "lightblue" },
+      { "name": "TypeScript", "color": "yellow" },
       { "name": "Express", "color": "blue" }
     ]
   }
