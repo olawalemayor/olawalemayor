@@ -3,14 +3,15 @@
   "lastname": "Olufisoye",
   "description": "Full Stack Web Developer",
   "skills": [
-    { "content": "NodeJS", "color": "black" },
-    { "content": "Express", "color": "blue" },
+    { "content": "NodeJS", "color": "green" },
+    { "content": "Express", "color": "black" },
     { "content": "Angular", "color": "red" },
     { "content": "React", "color": "lightblue" },
     { "content": "Typescript", "color": "yellow" },
     { "content": "MongoDB", "color": "green" },
     { "content": "Bootstrap", "color": "purple" },
-    { "content": "Python", "color": "lightblue" }
+    { "content": "Python", "color": "lightblue" },
+    { "content": "Docker", "color": "blue" }
   ],
   "other_description": "A certified web developer who uses Angular, React and Material UI to create web applications"
 }

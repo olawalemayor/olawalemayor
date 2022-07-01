@@ -1,6 +1,48 @@
 [
   {
     "id": 1,
+    "name": "Car database React",
+    "description": "This is a full stack project of a car database (React version)",
+    "imageUrl": "https://github.com/olawalemayor/car-database-node/blob/master/client-react/Screenshot.jpg?raw=true",
+    "projectLink": "https://master.d3ohd6g43ojwht.amplifyapp.com/car/625354db79d2db415217ccc9",
+    "githubLink": "https://github.com/olawalemayor/car-database-node/tree/master/client-react",
+    "skills": [
+      { "name": "React", "color": "lightblue" },
+      { "name": "Typescript", "color": "blue" },
+      { "name": "TailwindCSS", "color": "black" },
+      { "name": "NodeJS", "color": "black" },
+      { "name": "Express", "color": "blue" },
+      { "name": "AWS", "color": "red" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "ZeroDepression Dashboard",
+    "description": "Frontend of the dashboard for zerodpression.",
+    "imageUrl": "https://i.ibb.co/B2wbQHv/Screenshot-2022-07-02-000319.jpg",
+    "projectLink": "https://zd-dashboard-react.vercel.app/",
+    "skills": [
+      { "name": "React", "color": "lightblue" },
+      { "name": "TailwindCSS", "color": "black" },
+      { "name": "Typescript", "color": "blue" },
+      { "name": "Vercel", "color": "black" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Vasiti App",
+    "description": "This is a landing page with added functionality for creating testimonials to display on the page.",
+    "imageUrl": "https://i.ibb.co/P5rNxTy/screenshot.jpg",
+    "projectLink": "https://amazing-seahorse-90a83c.netlify.app/",
+    "githubLink": "https://github.com/olawalemayor/vasiti",
+    "skills": [
+      { "name": "React", "color": "lightblue" },
+      { "name": "HTML", "color": "green" },
+      { "name": "TailwindCSS", "color": "black" }
+    ]
+  },
+  {
+    "id": 6,
     "name": "Pelagio Invest",
     "description": "Pelagio is a safe and dependable gateway to the Nigerian and U.S stock markets, providing a reliable platform for unlimited access to several stocks using your mobile devices.",
     "imageUrl": "https://i.ibb.co/5446LqL/pelagio.jpg",
@@ -12,7 +54,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 9,
     "name": "HealthyCarely Landing Page",
     "description": "Landing Page built with Angular with minimal functionalities",
     "imageUrl": "https://github.com/olawalemayor/healthycarely/raw/master/screenshot.jpg",
@@ -25,7 +67,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": 10,
     "name": "Zero Depression",
     "description": "Zero depression is an online platform which provides a neutral environment to help people passing through mental health challenges speak out without fear.",
     "imageUrl": "https://i.ibb.co/dM4pPfz/zerodepression.jpg",
@@ -36,7 +78,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": 11,
     "name": "Space Tourism App",
     "description": "Project from frontendmentor.io",
     "imageUrl": "https://github.com/olawalemayor/space-tourism-app/raw/master/screenshot.jpg",
@@ -49,7 +91,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": 12,
     "name": "chassis.ng",
     "description": "Chassis is an automotive e-commerce platform that connects internet-connected vehicle owners to reliable auto mechanics.",
     "imageUrl": "https://i.ibb.co/sVKPDLc/chassis.jpg",
@@ -62,7 +104,7 @@
     ]
   },
   {
-    "id": 6,
+    "id": 100,
     "name": "TechBango",
     "description": "TechBango is a communication and technology firm that specializes in creating bespoke digital solutions for visionary clients.",
     "imageUrl": "https://i.ibb.co/09XCJ8L/techbango.jpg",
@@ -74,7 +116,7 @@
     ]
   },
   {
-    "id": 7,
+    "id": 120,
     "name": "Gmail App",
     "description": "Replicating the gmail App using ReactJS and Material Ui",
     "imageUrl": "https://github.com/olawalemayor/rx-gmail/raw/master/screenshot.jpg",

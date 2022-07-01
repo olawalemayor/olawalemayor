@@ -224,21 +224,28 @@ h1 {
   }
 
   .portfolio-inner {
-    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
     margin: 0 auto;
     color: white;
     padding: 1rem;
-    background-color: var(--textColor);
-    box-shadow: 1px -1px 5px 3px #aaa;
+    background-color: rgba(0, 0, 0, 0.679);
+    width: 100%;
+    height: 100%;
+    /* box-shadow: 1px -1px 5px 3px #aaa; */
   }
 
   .portfolio-inner h5 {
-    font-size: 20px;
+    font-size: xx-large;
     color: #fff;
+    font-weight: 700;
+    text-transform: uppercase;
   }
 
   .portfolio-inner span {
-    line-height: 1.5rem;
+    line-height: 1.75rem;
+    font-size: large;
   }
 
   .mob-portfolio {
