@@ -10,7 +10,7 @@
       { "name": "React", "color": "lightblue" },
       { "name": "Typescript", "color": "blue" },
       { "name": "TailwindCSS", "color": "black" },
-      { "name": "NodeJS", "color": "black" },
+      { "name": "NodeJS", "color": "green" },
       { "name": "Express", "color": "blue" },
       { "name": "AWS", "color": "red" }
     ]
