@@ -1,6 +1,21 @@
 [
   {
-    "id": 1,
+    "id": 17796,
+    "name": "Expense Manager",
+    "description": "Application that manages expenses of a company and allows filtering, sorting and searching of expenses.",
+    "imageUrl": "https://github.com/olawalemayor/expense-manager/blob/master/screenshot.jpg?raw=true",
+    "projectLink": "https://expense-manager-omega.vercel.app/",
+    "githubLink": "https://github.com/olawalemayor/expense-manager",
+    "skills": [
+      { "name": "Angular", "color": "red" },
+      { "name": "Typescript", "color": "blue" },
+      { "name": "TailwindCSS", "color": "black" },
+      { "name": "Angular Materials", "color": "red" },
+      { "name": "NGRX", "color": "lightblue" }
+    ]
+  },
+  {
+    "id": 177,
     "name": "Car database React",
     "description": "This is a full stack project of a car database (React version)",
     "imageUrl": "https://github.com/olawalemayor/car-database-node/blob/master/client-react/Screenshot.jpg?raw=true",
