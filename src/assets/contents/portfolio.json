@@ -9,9 +9,9 @@
     "skills": [
       { "name": "Angular", "color": "red" },
       { "name": "Typescript", "color": "blue" },
-      { "name": "TailwindCSS", "color": "black" },
-      { "name": "Angular Materials", "color": "red" },
-      { "name": "NGRX", "color": "lightblue" }
+      { "name": "Material", "color": "red" },
+      { "name": "NGRX", "color": "lightblue" },
+      { "name": "TailwindCSS", "color": "black" }
     ]
   },
   {
