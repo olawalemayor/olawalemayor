@@ -1,5 +1,20 @@
 [
   {
+    "id": 1779682,
+    "name": "Fake Store App",
+    "description": "A market application based on Fake store API with paystack and flutterwave integrations",
+    "imageUrl": "https://github.com/olawalemayor/fake-store/raw/master/fake-store.jpg",
+    "projectLink": "https://fake-store-bice.vercel.app/",
+    "githubLink": "https://github.com/olawalemayor/fake-store",
+    "skills": [
+      { "name": "Angular", "color": "red" },
+      { "name": "Typescript", "color": "blue" },
+      { "name": "TailwindCSS", "color": "black" },
+      { "name": "Paystack", "color": "blue" },
+      { "name": "Flutterwave", "color": "black" }
+    ]
+  },
+  {
     "id": 17796,
     "name": "Expense Manager",
     "description": "Application that manages expenses of a company and allows filtering, sorting and searching of expenses.",
