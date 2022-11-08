@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **GCP on Pluralsight**
 
-- 👨‍💻 All of my projects are available at [https://olawalemayor.herokuapp.com/](https://olawalemayor.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://olawalemayor.netlify.app/](https://olawalemayor.netlify.app/)
 
 - 💬 Ask me about **Angular, React, Node.js, Typescript**
 
