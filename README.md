@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/olawalemayor" target="blank"><img src="https://img.shields.io/twitter/follow/olawalemayor?logo=twitter&style=for-the-badge" alt="olawalemayor" /></a> </p>
 
-- 🌱 I’m currently learning **GCP on Pluralsight**
-
 - 👨‍💻 All of my projects are available at [https://olawalemayor.netlify.app/](https://olawalemayor.netlify.app/)
 
-- 💬 Ask me about **Angular, React, Node.js, Typescript**
+- 💬 Ask me about **Angular, React, Node.js, Nest.js, Typescript**
 
 - 📫 How to reach me **olawalemayor90@gmail.com**
 
