@@ -1,76 +1,92 @@
 # Hi, I'm Olawale 👋
 
-Backend Engineer focused on building scalable systems and clean architectures.
+**Cloud-Native Full-Stack Developer | Node.js • Angular • TypeScript • Kubernetes**
 
----
+I’m a software engineer with 5+ years of experience building and maintaining production web and backend systems, with most of my work centered around TypeScript, Angular, Node.js, and NestJS.
 
-## 🧠 What I Do
+Recently, I’ve been going deeper into cloud-native and platform engineering: containerized services, Kubernetes, Kustomize, Helm, CI/CD, and deployment workflows.
 
-I design and build backend systems using Node.js and TypeScript, with a strong focus on:
+## What I Build
 
-- Microservices architecture  
-- Asynchronous processing (queues, workers)  
-- Real-time systems (Socket.IO)  
-- API design and system structure  
+- Production full-stack applications with Angular, Node.js, and NestJS
+- Backend services and APIs with clear service boundaries
+- Microservices and asynchronous worker systems
+- Real-time features using WebSockets and Server-Sent Events
+- Containerized applications with Docker and Docker Compose
+- Kubernetes deployments using Kustomize and Helm
+- CI/CD pipelines and deployment workflows
 
-I enjoy solving backend and deployment-related problems, especially where performance, reliability, and system design matter.
+## Featured Projects
 
----
+### [Job Microservice System](https://github.com/olawalemayor/job-service)
 
-## ⚙️ Tech Stack
+A backend system built to explore practical microservices and cloud-native deployment patterns.
 
-- **Backend:** Node.js, TypeScript, Express  
-- **Data:** MongoDB, PostgreSQL, Redis  
-- **Systems:** Microservices, Worker Patterns, Event-driven design  
-- **Infra:** Docker, Linux  
-- **Other:** REST APIs, Socket.IO  
+- Separate API and worker services
+- Redis-based background job processing
+- MongoDB persistence
+- S3-compatible object storage
+- Docker Compose for local orchestration
+- Kubernetes deployment with Kustomize and Helm
+- Tested against Google Kubernetes Engine (GKE)
 
----
+### [Under10Bucks](https://github.com/olawalemayor/under10bucks-prod)
 
-## 🚧 What I'm Working On
+Production e-commerce platform built with a full-stack architecture.
 
-- Building microservices systems with background workers and queues  
-- Improving system design and scalability patterns  
-- Moving deeper into platform engineering (Docker, orchestration, system reliability)  
+- Angular frontend and Node.js/Express backend
+- REST APIs for products, authentication, orders, and users
+- MongoDB persistence
+- Docker and environment-based configuration
+- CI/CD-friendly project structure
 
----
+### [ng-flutterwave](https://github.com/olawalemayor/ng-flutterwave)
 
-## 🔍 Featured Project
+Open-source Angular library for integrating Flutterwave payments into Angular applications.
 
-### 🧩 Job Microservice System
+## Professional Experience
 
-A microservices backend system built with:
+At CHB Technologies, I work across frontend and backend systems for enterprise software, including billing, accounting, planning, and POS applications.
 
-- API + Worker architecture  
-- Redis-based asynchronous processing  
-- MongoDB for persistence  
-- S3-compatible storage integration  
-- Docker Compose for orchestration  
+My work includes backend services, API design, real-time features, CI/CD, production schema changes, performance improvements, and deployment-related engineering. I’ve also built applications from scratch as a sole contributor.
 
-This project focuses on real-world backend structure and deployment readiness.
+## Current Focus
 
----
+I’m building on my software engineering experience while moving deeper into **platform engineering and cloud-native infrastructure**.
 
-## 🎯 Current Focus
+Current areas of focus:
 
-- Backend systems and distributed architectures  
-- Real-time communication systems  
-- Containerized environments  
-- Transitioning into platform engineering  
+- Kubernetes
+- Kustomize
+- Helm
+- Docker
+- CI/CD
+- Cloud infrastructure
+- Platform engineering
+- System reliability and deployment automation
 
----
+## Tech Stack
 
-## 🤝 Open To
+**Languages:** TypeScript, JavaScript, Python
 
-- Backend engineering roles  
-- Node.js systems work  
-- Backend debugging and deployment issues  
+**Frontend:** Angular, React, Next.js, RxJS, NgRx, Angular Signals, Tailwind CSS
 
----
+**Backend:** Node.js, Express, NestJS, REST APIs, Microservices
 
-## 📫 Contact
+**Data & Messaging:** MongoDB, PostgreSQL, MySQL, Redis, RabbitMQ
 
-- 🌐 https://olawalemayor.com  
-- 💻 https://github.com/olawalemayor  
+**Cloud-Native & DevOps:** Docker, Docker Compose, Kubernetes, GKE, Kustomize, Helm, GitLab CI/CD, GitHub Actions
+
+**Testing & Tooling:** Jest, Jasmine, Cypress, Swagger/OpenAPI, Zod, Linux, Git
+
+## Open To
+
+Backend, full-stack, cloud-native software engineering, and entry-level platform/infrastructure opportunities.
+
+## Connect
+
+- [GitHub](https://github.com/olawalemayor)
+- [Website](https://olawalemayor.com)
+- [LinkedIn](https://www.linkedin.com/in/olawalemayor)
 
 ---
