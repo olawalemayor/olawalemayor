@@ -60,5 +60,5 @@ I am targeting global remote opportunities where I can apply my software enginee
 ## 🌐 Connect With Me
 
 - 💻 **GitHub:** https://github.com/olawalemayor
-- 💼 **LinkedIn:** [Your LinkedIn profile]
+- 💼 **LinkedIn:** https://linkedin.com/in/olawale-mayor
 - 🌐 **Website:** https://olawalemayor.com
